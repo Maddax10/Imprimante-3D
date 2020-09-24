@@ -1,3 +1,3 @@
-# Marlin-1.1.9
+# Imprimante 3D
 
-Firmware pour geeetech i3 pro b
+Tout ce qui est nécessaire à l'impression 3D pour une geeetech i3 pro b (mega2560)
