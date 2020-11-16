@@ -1,0 +1,22 @@
+__Configuration.h__
+
+127 : 
+#define MOTHERBOARD BOARD_GT2560_REV_A
+
+619 : 
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 78.74, 78.74, 410, 105 }
+
+859 :
+#define INVERT_X_DIR true
+#define INVERT_Y_DIR true
+#define INVERT_Z_DIR false
+
+895 :
+#define Y_MIN_POS 0
+
+899 :
+#define Z_MAX_POS 180
+
+306:
+#define TEMP_SENSOR_0 0
+
